@@ -1,0 +1,25 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+.idea/
+.out/
+./idea/modules.xml
+.idea/jar
+.idea/comlier.xml
+.idea/libraries
+*.iws
+*.iml
+*.ipr
+
+### VS Code ###
+.vscode
+
+### Mac OS ###
+.DS_Store
